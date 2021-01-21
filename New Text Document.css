@@ -1,0 +1,9 @@
+@media (min-width: 64em) {
+	.eighty-width {
+		width: 80.0%;
+	}
+}
+@media (max-width: 63.99em) {
+	.eighty-width {width: 100.0%;
+	}
+}
